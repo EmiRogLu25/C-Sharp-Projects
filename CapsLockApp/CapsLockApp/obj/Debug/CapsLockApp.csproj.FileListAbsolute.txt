@@ -1,0 +1,9 @@
+C:\Users\ynsmr\source\repos\CapsLockApp\CapsLockApp\bin\Debug\CapsLockApp.exe.config
+C:\Users\ynsmr\source\repos\CapsLockApp\CapsLockApp\bin\Debug\CapsLockApp.exe
+C:\Users\ynsmr\source\repos\CapsLockApp\CapsLockApp\bin\Debug\CapsLockApp.pdb
+C:\Users\ynsmr\source\repos\CapsLockApp\CapsLockApp\obj\Debug\CapsLockApp.csprojAssemblyReference.cache
+C:\Users\ynsmr\source\repos\CapsLockApp\CapsLockApp\obj\Debug\CapsLockApp.Form1.resources
+C:\Users\ynsmr\source\repos\CapsLockApp\CapsLockApp\obj\Debug\CapsLockApp.Properties.Resources.resources
+C:\Users\ynsmr\source\repos\CapsLockApp\CapsLockApp\obj\Debug\CapsLockApp.csproj.GenerateResource.cache
+C:\Users\ynsmr\source\repos\CapsLockApp\CapsLockApp\obj\Debug\CapsLockApp.exe
+C:\Users\ynsmr\source\repos\CapsLockApp\CapsLockApp\obj\Debug\CapsLockApp.pdb
