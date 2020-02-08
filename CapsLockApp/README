@@ -1,0 +1,5 @@
+# CapsLockApp
+Bazı bilgisayarlarda caps lock tuşu içi geri bildirim göstergesi olmayabilir. Kullanmakta olduğum bilgisayarda da böyle 
+bir gösterge yok. Bundan dolayı caps lock tuşunun aktif olup olmadığını gösteren bir masaüstü uygulaması geliştirdim. Bu uygulama sistem
+tepsisinde çalışır. Bunun için C# "NotifyIcon" sınıfını kullandım. Eğer caps lock açıksa sistem tepsisinde bir ikon belirir, açık değilse
+ikon kaybolur. Proje içinde metodlara ait açıklamalar mevcuttur. 
