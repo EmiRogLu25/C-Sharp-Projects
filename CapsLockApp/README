@@ -8,7 +8,7 @@ are explanations of methods in the project.
 ------------------------------------------------------------------------------------------------------------------------------------------
 
   Bazı bilgisayarlarda caps lock tuşu için geri bildirim göstergesi olmayabilir. Kullanmakta olduğum bilgisayarda da böyle bir gösterge 
-yok.Bundan dolayı caps lock tuşunun aktif olup olmadığını gösteren bir masaüstü uygulaması geliştirdim. Bu uygulama sistem tepsisinde
+yok. Bundan dolayı caps lock tuşunun aktif olup olmadığını gösteren bir masaüstü uygulaması geliştirdim. Bu uygulama sistem tepsisinde
 çalışır. Bunun için C# "NotifyIcon" sınıfını kullandım. Eğer caps lock aktifse sistem tepsisinde bir ikon belirir, aktif değilse ikon 
 kaybolur. Proje içinde metodlara ait açıklamalar mevcuttur. 
 
